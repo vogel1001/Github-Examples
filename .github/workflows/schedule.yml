@@ -1,3 +1,5 @@
+name: Schedule Job Test
+
 on:
   schedule:
     - cron: '*/2 * * * *'
